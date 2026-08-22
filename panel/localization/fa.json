@@ -1,0 +1,19 @@
+{
+    "installmentsCode": "کد",
+    "installmentsContracts": "قراردادهای اقساطی",
+    "installmentsCount": "تعداد اقساط",
+    "installmentsCurrency": "ارز",
+    "installmentsCustomer": "مشتری",
+    "installmentsDescription": "توضیحات",
+    "installmentsDownPaymentPercentage": "درصد پیش‌پرداخت",
+    "installmentsFrequency": "دوره پرداخت",
+    "installmentsInstallments": "اقساط",
+    "installmentsInterestRate": "نرخ سود",
+    "installmentsNumber": "شماره",
+    "installmentsPlan": "طرح اقساط",
+    "installmentsPlans": "طرح‌های اقساط",
+    "installmentsPrincipalAmount": "مبلغ اصل",
+    "installmentsStartDate": "تاریخ شروع",
+    "installmentsState": "مرحله",
+    "installmentsTotalAmount": "مبلغ کل"
+}

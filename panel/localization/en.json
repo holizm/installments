@@ -1,0 +1,19 @@
+{
+    "installmentsCode": "Code",
+    "installmentsContracts": "Installment contracts",
+    "installmentsCount": "Number of installments",
+    "installmentsCurrency": "Currency",
+    "installmentsCustomer": "Customer",
+    "installmentsDescription": "Description",
+    "installmentsDownPaymentPercentage": "Down payment percentage",
+    "installmentsFrequency": "Frequency",
+    "installmentsInstallments": "Installments",
+    "installmentsInterestRate": "Interest rate",
+    "installmentsNumber": "Number",
+    "installmentsPlan": "Installment plan",
+    "installmentsPlans": "Installment plans",
+    "installmentsPrincipalAmount": "Principal amount",
+    "installmentsStartDate": "Start date",
+    "installmentsState": "State",
+    "installmentsTotalAmount": "Total amount"
+}

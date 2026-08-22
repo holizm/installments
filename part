@@ -1,0 +1,50 @@
+installmentFrequency options
+    weekly
+    monthly
+    quarterly
+    custom
+installmentPlan
+    title
+    code
+    installmentsCount integer
+    installmentFrequency
+    downPaymentPercentage realNumber optional
+    interestRate realNumber optional
+    gracePeriodDays integer optional
+    lateFee realNumber optional
+    description optional
+    unique code
+installmentContract
+    number
+    installmentPlan
+    customer
+    order optional
+    quotation optional
+    principalAmount realNumber
+    interestAmount realNumber optional
+    totalAmount realNumber
+    currency
+    startDate
+    state
+    unique number
+installment
+    installmentContract
+    sequence integer
+    dueDate
+    principalAmount realNumber
+    interestAmount realNumber optional
+    totalAmount realNumber
+    paidAmount realNumber optional
+    state
+    unique installmentContract sequence
+installmentPayment
+    installment
+    payment
+    amount realNumber
+    paymentDate
+installmentReschedule
+    installment
+    previousDueDate
+    newDueDate
+    rescheduledDate
+    reason
