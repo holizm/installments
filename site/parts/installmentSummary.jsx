@@ -1,4 +1,4 @@
-export default ({ installment }) => <dl class='installmentSummary'>
+export default ({ installment }) => <dl class='summary'>
     <dt class='sequence'>{installment.sequence}</dt>
     <dd class='dueDate'>{installment.dueDate}</dd>
     <dd class='totalAmount'>{installment.totalAmount}</dd>
