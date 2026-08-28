@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'calendarMonth',
+        path: '/installments',
         title: 'installmentsInstallments',
     },
 ]
