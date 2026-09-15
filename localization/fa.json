@@ -1,0 +1,28 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "code": "کد",
+        "contracts": "قراردادهای اقساطی",
+        "count": "تعداد اقساط",
+        "currency": "ارز",
+        "customer": "مشتری",
+        "description": "توضیحات",
+        "downPaymentPercentage": "درصد پیش‌پرداخت",
+        "frequency": "دوره پرداخت",
+        "installments": "اقساط",
+        "interestRate": "نرخ سود",
+        "number": "شماره",
+        "plan": "طرح اقساط",
+        "plans": "طرح‌های اقساط",
+        "principalAmount": "مبلغ اصل",
+        "startDate": "تاریخ شروع",
+        "state": "مرحله",
+        "totalAmount": "مبلغ کل"
+    },
+    "site": {
+        "dueDate": "تاریخ سررسید",
+        "paidAmount": "مبلغ پرداخت‌شده",
+        "totalAmount": "مبلغ قسط"
+    }
+}

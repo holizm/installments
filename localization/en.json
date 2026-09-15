@@ -1,0 +1,28 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "code": "Code",
+        "contracts": "Installment contracts",
+        "count": "Number of installments",
+        "currency": "Currency",
+        "customer": "Customer",
+        "description": "Description",
+        "downPaymentPercentage": "Down payment percentage",
+        "frequency": "Frequency",
+        "installments": "Installments",
+        "interestRate": "Interest rate",
+        "number": "Number",
+        "plan": "Installment plan",
+        "plans": "Installment plans",
+        "principalAmount": "Principal amount",
+        "startDate": "Start date",
+        "state": "State",
+        "totalAmount": "Total amount"
+    },
+    "site": {
+        "dueDate": "Due date",
+        "paidAmount": "Paid amount",
+        "totalAmount": "Installment amount"
+    }
+}
