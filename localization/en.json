@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "code": "Code",
         "contracts": "Installment contracts",
         "count": "Number of installments",
@@ -18,11 +16,8 @@
         "principalAmount": "Principal amount",
         "startDate": "Start date",
         "state": "State",
-        "totalAmount": "Total amount"
-    },
-    "site": {
+        "totalAmount": "Installment amount",
         "dueDate": "Due date",
-        "paidAmount": "Paid amount",
-        "totalAmount": "Installment amount"
+        "paidAmount": "Paid amount"
     }
 }

@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "code": "کد",
         "contracts": "قراردادهای اقساطی",
         "count": "تعداد اقساط",
@@ -18,11 +16,8 @@
         "principalAmount": "مبلغ اصل",
         "startDate": "تاریخ شروع",
         "state": "مرحله",
-        "totalAmount": "مبلغ کل"
-    },
-    "site": {
+        "totalAmount": "مبلغ قسط",
         "dueDate": "تاریخ سررسید",
-        "paidAmount": "مبلغ پرداخت‌شده",
-        "totalAmount": "مبلغ قسط"
+        "paidAmount": "مبلغ پرداخت‌شده"
     }
 }
