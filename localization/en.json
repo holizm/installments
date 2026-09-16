@@ -10,8 +10,6 @@
         "plan": "Installment plan",
         "plans": "Installment plans",
         "principalAmount": "Principal amount",
-        "totalAmount": "Installment amount",
-        "dueDate": "Due date",
-        "paidAmount": "Paid amount"
+        "totalAmount": "Installment amount"
     }
 }
