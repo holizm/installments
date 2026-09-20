@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Afbetalingskontrakte",
+        "count": "Aantal paaiemente",
+        "customer": "Kliënt",
+        "downPaymentPercentage": "Deposito-persentasie",
+        "frequency": "Frekwensie",
+        "installments": "Paaiemente",
+        "interestRate": "Rentekoers",
+        "plan": "Afbetalingsplan",
+        "plans": "Afbetalingsplanne",
+        "principalAmount": "Hoofsom",
+        "totalAmount": "Paaiementbedrag"
+    }
+}

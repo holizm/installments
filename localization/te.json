@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "వాయిదా ఒప్పందాలు",
+        "count": "వాయిదాల సంఖ్య",
+        "customer": "కస్టమర్",
+        "downPaymentPercentage": "ముందస్తు చెల్లింపు శాతం",
+        "frequency": "చెల్లింపు తరచుదనం",
+        "installments": "వాయిదాలు",
+        "interestRate": "వడ్డీ రేటు",
+        "plan": "వాయిదా ప్రణాళిక",
+        "plans": "వాయిదా ప్రణాళికలు",
+        "principalAmount": "అసలు మొత్తం",
+        "totalAmount": "వాయిదా మొత్తం"
+    }
+}

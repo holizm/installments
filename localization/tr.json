@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Taksit sözleşmeleri",
+        "count": "Taksit sayısı",
+        "customer": "Müşteri",
+        "downPaymentPercentage": "Peşinat yüzdesi",
+        "frequency": "Ödeme sıklığı",
+        "installments": "Taksitler",
+        "interestRate": "Faiz oranı",
+        "plan": "Taksit planı",
+        "plans": "Taksit planları",
+        "principalAmount": "Anapara tutarı",
+        "totalAmount": "Taksit tutarı"
+    }
+}

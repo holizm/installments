@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Contrats de paiement échelonné",
+        "count": "Nombre d’échéances",
+        "customer": "Client",
+        "downPaymentPercentage": "Pourcentage d’acompte",
+        "frequency": "Fréquence des paiements",
+        "installments": "Échéances",
+        "interestRate": "Taux d’intérêt",
+        "plan": "Plan de paiement échelonné",
+        "plans": "Plans de paiement échelonné",
+        "principalAmount": "Montant du principal",
+        "totalAmount": "Montant de l’échéance"
+    }
+}

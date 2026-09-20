@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "ਕਿਸ਼ਤ ਸਮਝੌਤੇ",
+        "count": "ਕਿਸ਼ਤਾਂ ਦੀ ਗਿਣਤੀ",
+        "customer": "ਗਾਹਕ",
+        "downPaymentPercentage": "ਅਗਾਊਂ ਭੁਗਤਾਨ ਪ੍ਰਤੀਸ਼ਤ",
+        "frequency": "ਭੁਗਤਾਨ ਦੀ ਆਵਿਰਤੀ",
+        "installments": "ਕਿਸ਼ਤਾਂ",
+        "interestRate": "ਵਿਆਜ ਦਰ",
+        "plan": "ਕਿਸ਼ਤ ਯੋਜਨਾ",
+        "plans": "ਕਿਸ਼ਤ ਯੋਜਨਾਵਾਂ",
+        "principalAmount": "ਮੂਲ ਰਕਮ",
+        "totalAmount": "ਕਿਸ਼ਤ ਦੀ ਰਕਮ"
+    }
+}

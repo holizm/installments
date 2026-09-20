@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "የክፍያ ክፍፍል ውሎች",
+        "count": "የክፍያ ክፍፍሎች ብዛት",
+        "customer": "ደንበኛ",
+        "downPaymentPercentage": "የቅድሚያ ክፍያ መቶኛ",
+        "frequency": "የክፍያ ድግግሞሽ",
+        "installments": "የክፍያ ክፍፍሎች",
+        "interestRate": "የወለድ ተመን",
+        "plan": "የክፍያ ክፍፍል ዕቅድ",
+        "plans": "የክፍያ ክፍፍል ዕቅዶች",
+        "principalAmount": "ዋና ገንዘብ",
+        "totalAmount": "የክፍያ ክፍፍል መጠን"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Ratenzahlungsverträge",
+        "count": "Anzahl der Raten",
+        "customer": "Kunde",
+        "downPaymentPercentage": "Anzahlungsprozentsatz",
+        "frequency": "Zahlungsintervall",
+        "installments": "Raten",
+        "interestRate": "Zinssatz",
+        "plan": "Ratenzahlungsplan",
+        "plans": "Ratenzahlungspläne",
+        "principalAmount": "Kapitalbetrag",
+        "totalAmount": "Ratenbetrag"
+    }
+}

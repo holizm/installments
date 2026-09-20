@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "தவணை ஒப்பந்தங்கள்",
+        "count": "தவணைகளின் எண்ணிக்கை",
+        "customer": "வாடிக்கையாளர்",
+        "downPaymentPercentage": "முன்பண சதவீதம்",
+        "frequency": "பணம் செலுத்தும் இடைவெளி",
+        "installments": "தவணைகள்",
+        "interestRate": "வட்டி விகிதம்",
+        "plan": "தவணைத் திட்டம்",
+        "plans": "தவணைத் திட்டங்கள்",
+        "principalAmount": "அசல் தொகை",
+        "totalAmount": "தவணைத் தொகை"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Osamaksusopimukset",
+        "count": "Erien määrä",
+        "customer": "Asiakas",
+        "downPaymentPercentage": "Käsirahan prosenttiosuus",
+        "frequency": "Maksuväli",
+        "installments": "Maksuerät",
+        "interestRate": "Korkoprosentti",
+        "plan": "Osamaksusuunnitelma",
+        "plans": "Osamaksusuunnitelmat",
+        "principalAmount": "Pääoma",
+        "totalAmount": "Maksuerän määrä"
+    }
+}

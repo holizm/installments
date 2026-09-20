@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Mga kontrata sa hulugan",
+        "count": "Bilang ng hulog",
+        "customer": "Customer",
+        "downPaymentPercentage": "Porsiyento ng paunang bayad",
+        "frequency": "Dalas ng pagbabayad",
+        "installments": "Mga hulog",
+        "interestRate": "Rate ng interes",
+        "plan": "Plano sa hulugan",
+        "plans": "Mga plano sa hulugan",
+        "principalAmount": "Pangunahing halaga",
+        "totalAmount": "Halaga ng hulog"
+    }
+}

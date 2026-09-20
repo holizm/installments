@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Részletfizetési szerződések",
+        "count": "Részletek száma",
+        "customer": "Ügyfél",
+        "downPaymentPercentage": "Előleg százaléka",
+        "frequency": "Fizetési gyakoriság",
+        "installments": "Részletek",
+        "interestRate": "Kamatláb",
+        "plan": "Részletfizetési terv",
+        "plans": "Részletfizetési tervek",
+        "principalAmount": "Tőkeösszeg",
+        "totalAmount": "Részlet összege"
+    }
+}

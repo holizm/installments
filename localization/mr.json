@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "हप्ता करार",
+        "count": "हप्त्यांची संख्या",
+        "customer": "ग्राहक",
+        "downPaymentPercentage": "आगाऊ भरणा टक्केवारी",
+        "frequency": "भरणा वारंवारता",
+        "installments": "हप्ते",
+        "interestRate": "व्याज दर",
+        "plan": "हप्ता योजना",
+        "plans": "हप्ता योजना",
+        "principalAmount": "मुद्दल रक्कम",
+        "totalAmount": "हप्त्याची रक्कम"
+    }
+}

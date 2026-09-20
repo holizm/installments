@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Kontrak cicilan",
+        "count": "Jumlah cicilan",
+        "customer": "Pelanggan",
+        "downPaymentPercentage": "Persentase uang muka",
+        "frequency": "Frekuensi pembayaran",
+        "installments": "Cicilan",
+        "interestRate": "Suku bunga",
+        "plan": "Paket cicilan",
+        "plans": "Paket cicilan",
+        "principalAmount": "Jumlah pokok",
+        "totalAmount": "Jumlah cicilan"
+    }
+}

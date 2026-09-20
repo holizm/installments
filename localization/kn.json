@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "ಕಂತು ಒಪ್ಪಂದಗಳು",
+        "count": "ಕಂತುಗಳ ಸಂಖ್ಯೆ",
+        "customer": "ಗ್ರಾಹಕ",
+        "downPaymentPercentage": "ಮುಂಗಡ ಪಾವತಿ ಶೇಕಡಾವಾರು",
+        "frequency": "ಪಾವತಿ ಆವರ್ತನೆ",
+        "installments": "ಕಂತುಗಳು",
+        "interestRate": "ಬಡ್ಡಿ ದರ",
+        "plan": "ಕಂತು ಯೋಜನೆ",
+        "plans": "ಕಂತು ಯೋಜನೆಗಳು",
+        "principalAmount": "ಅಸಲು ಮೊತ್ತ",
+        "totalAmount": "ಕಂತಿನ ಮೊತ್ತ"
+    }
+}

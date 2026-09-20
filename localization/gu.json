@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "હપ્તાના કરારો",
+        "count": "હપ્તાઓની સંખ્યા",
+        "customer": "ગ્રાહક",
+        "downPaymentPercentage": "ડાઉન પેમેન્ટની ટકાવારી",
+        "frequency": "ચુકવણીની આવર્તનતા",
+        "installments": "હપ્તાઓ",
+        "interestRate": "વ્યાજ દર",
+        "plan": "હપ્તા યોજના",
+        "plans": "હપ્તા યોજનાઓ",
+        "principalAmount": "મૂડી રકમ",
+        "totalAmount": "હપ્તાની રકમ"
+    }
+}

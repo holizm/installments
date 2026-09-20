@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Àwọn àdéhùn ìsanwó díẹ̀díẹ̀",
+        "count": "Iye àwọn ìsanwó",
+        "customer": "Oníbàárà",
+        "downPaymentPercentage": "Ìdá ọgọ́rùn-ún owó ìbẹ̀rẹ̀",
+        "frequency": "Ìgbà tí a ń sanwó",
+        "installments": "Àwọn ìsanwó díẹ̀díẹ̀",
+        "interestRate": "Ìwọ̀n èrè",
+        "plan": "Ètò ìsanwó díẹ̀díẹ̀",
+        "plans": "Àwọn ètò ìsanwó díẹ̀díẹ̀",
+        "principalAmount": "Owó ìpilẹ̀",
+        "totalAmount": "Iye ìsanwó kọ̀ọ̀kan"
+    }
+}

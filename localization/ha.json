@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Yarjejen biyan kashi-kashi",
+        "count": "Yawan kashi-kashi",
+        "customer": "Abokin ciniki",
+        "downPaymentPercentage": "Kason kuɗin farko",
+        "frequency": "Yawan lokutan biyan kuɗi",
+        "installments": "Kashi-kashi",
+        "interestRate": "Kuɗin ruwa",
+        "plan": "Tsarin biyan kashi-kashi",
+        "plans": "Tsare-tsaren biyan kashi-kashi",
+        "principalAmount": "Babban adadin kuɗi",
+        "totalAmount": "Adadin kashi"
+    }
+}

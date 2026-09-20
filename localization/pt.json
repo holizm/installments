@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Contratos de pagamento em prestações",
+        "count": "Número de prestações",
+        "customer": "Cliente",
+        "downPaymentPercentage": "Percentagem de entrada",
+        "frequency": "Frequência de pagamento",
+        "installments": "Prestações",
+        "interestRate": "Taxa de juro",
+        "plan": "Plano de prestações",
+        "plans": "Planos de prestações",
+        "principalAmount": "Montante principal",
+        "totalAmount": "Valor da prestação"
+    }
+}

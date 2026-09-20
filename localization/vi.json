@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Hợp đồng trả góp",
+        "count": "Số kỳ trả góp",
+        "customer": "Khách hàng",
+        "downPaymentPercentage": "Tỷ lệ trả trước",
+        "frequency": "Tần suất thanh toán",
+        "installments": "Các kỳ trả góp",
+        "interestRate": "Lãi suất",
+        "plan": "Kế hoạch trả góp",
+        "plans": "Các kế hoạch trả góp",
+        "principalAmount": "Số tiền gốc",
+        "totalAmount": "Số tiền mỗi kỳ"
+    }
+}

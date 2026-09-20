@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "分割払い契約",
+        "count": "分割回数",
+        "customer": "顧客",
+        "downPaymentPercentage": "頭金の割合",
+        "frequency": "支払い頻度",
+        "installments": "分割払い",
+        "interestRate": "金利",
+        "plan": "分割払いプラン",
+        "plans": "分割払いプラン",
+        "principalAmount": "元金",
+        "totalAmount": "分割払い金額"
+    }
+}

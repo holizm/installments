@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "สัญญาผ่อนชำระ",
+        "count": "จำนวนงวด",
+        "customer": "ลูกค้า",
+        "downPaymentPercentage": "เปอร์เซ็นต์เงินดาวน์",
+        "frequency": "ความถี่ในการชำระเงิน",
+        "installments": "งวดชำระ",
+        "interestRate": "อัตราดอกเบี้ย",
+        "plan": "แผนผ่อนชำระ",
+        "plans": "แผนผ่อนชำระ",
+        "principalAmount": "เงินต้น",
+        "totalAmount": "จำนวนเงินต่องวด"
+    }
+}

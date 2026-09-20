@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Συμβάσεις δόσεων",
+        "count": "Αριθμός δόσεων",
+        "customer": "Πελάτης",
+        "downPaymentPercentage": "Ποσοστό προκαταβολής",
+        "frequency": "Συχνότητα πληρωμών",
+        "installments": "Δόσεις",
+        "interestRate": "Επιτόκιο",
+        "plan": "Πλάνο δόσεων",
+        "plans": "Πλάνα δόσεων",
+        "principalAmount": "Αρχικό κεφάλαιο",
+        "totalAmount": "Ποσό δόσης"
+    }
+}

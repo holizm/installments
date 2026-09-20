@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Договори розстрочки",
+        "count": "Кількість платежів",
+        "customer": "Клієнт",
+        "downPaymentPercentage": "Відсоток початкового внеску",
+        "frequency": "Періодичність платежів",
+        "installments": "Платежі на виплат",
+        "interestRate": "Відсоткова ставка",
+        "plan": "План розстрочки",
+        "plans": "Плани розстрочки",
+        "principalAmount": "Основна сума",
+        "totalAmount": "Сума платежу"
+    }
+}

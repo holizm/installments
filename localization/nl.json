@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Termijnbetalingsovereenkomsten",
+        "count": "Aantal termijnen",
+        "customer": "Klant",
+        "downPaymentPercentage": "Percentage aanbetaling",
+        "frequency": "Betalingsfrequentie",
+        "installments": "Termijnen",
+        "interestRate": "Rentepercentage",
+        "plan": "Termijnbetalingsplan",
+        "plans": "Termijnbetalingsplannen",
+        "principalAmount": "Hoofdsom",
+        "totalAmount": "Termijnbedrag"
+    }
+}

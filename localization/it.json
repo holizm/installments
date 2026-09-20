@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Contratti rateali",
+        "count": "Numero di rate",
+        "customer": "Cliente",
+        "downPaymentPercentage": "Percentuale di acconto",
+        "frequency": "Frequenza di pagamento",
+        "installments": "Rate",
+        "interestRate": "Tasso di interesse",
+        "plan": "Piano rateale",
+        "plans": "Piani rateali",
+        "principalAmount": "Importo capitale",
+        "totalAmount": "Importo della rata"
+    }
+}

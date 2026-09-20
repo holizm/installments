@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "কিস্তি চুক্তি",
+        "count": "কিস্তির সংখ্যা",
+        "customer": "গ্রাহক",
+        "downPaymentPercentage": "অগ্রিম পরিশোধের শতাংশ",
+        "frequency": "পরিশোধের ব্যবধান",
+        "installments": "কিস্তি",
+        "interestRate": "সুদের হার",
+        "plan": "কিস্তি পরিকল্পনা",
+        "plans": "কিস্তি পরিকল্পনাসমূহ",
+        "principalAmount": "মূলধনের পরিমাণ",
+        "totalAmount": "কিস্তির পরিমাণ"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "اقساط کے معاہدے",
+        "count": "اقساط کی تعداد",
+        "customer": "صارف",
+        "downPaymentPercentage": "پیشگی ادائیگی کا فیصد",
+        "frequency": "ادائیگی کی تعداد",
+        "installments": "اقساط",
+        "interestRate": "شرح سود",
+        "plan": "اقساطی منصوبہ",
+        "plans": "اقساطی منصوبے",
+        "principalAmount": "اصل رقم",
+        "totalAmount": "قسط کی رقم"
+    }
+}

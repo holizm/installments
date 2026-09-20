@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "عقود التقسيط",
+        "count": "عدد الأقساط",
+        "customer": "العميل",
+        "downPaymentPercentage": "نسبة الدفعة المقدمة",
+        "frequency": "دورية السداد",
+        "installments": "الأقساط",
+        "interestRate": "معدل الفائدة",
+        "plan": "خطة التقسيط",
+        "plans": "خطط التقسيط",
+        "principalAmount": "المبلغ الأصلي",
+        "totalAmount": "مبلغ القسط"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Contracte de plată în rate",
+        "count": "Număr de rate",
+        "customer": "Client",
+        "downPaymentPercentage": "Procentul avansului",
+        "frequency": "Frecvența plăților",
+        "installments": "Rate",
+        "interestRate": "Rata dobânzii",
+        "plan": "Plan de rate",
+        "plans": "Planuri de rate",
+        "principalAmount": "Valoarea principalului",
+        "totalAmount": "Valoarea ratei"
+    }
+}

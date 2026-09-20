@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Avbetalningsavtal",
+        "count": "Antal delbetalningar",
+        "customer": "Kund",
+        "downPaymentPercentage": "Procentuell kontantinsats",
+        "frequency": "Betalningsfrekvens",
+        "installments": "Delbetalningar",
+        "interestRate": "Räntesats",
+        "plan": "Avbetalningsplan",
+        "plans": "Avbetalningsplaner",
+        "principalAmount": "Kapitalbelopp",
+        "totalAmount": "Delbetalningsbelopp"
+    }
+}

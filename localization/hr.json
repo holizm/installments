@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Ugovori o obročnoj otplati",
+        "count": "Broj rata",
+        "customer": "Kupac",
+        "downPaymentPercentage": "Postotak predujma",
+        "frequency": "Učestalost plaćanja",
+        "installments": "Rate",
+        "interestRate": "Kamatna stopa",
+        "plan": "Plan obročne otplate",
+        "plans": "Planovi obročne otplate",
+        "principalAmount": "Iznos glavnice",
+        "totalAmount": "Iznos rate"
+    }
+}

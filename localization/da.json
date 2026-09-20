@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Afbetalingsaftaler",
+        "count": "Antal afdrag",
+        "customer": "Kunde",
+        "downPaymentPercentage": "Procentdel for udbetaling",
+        "frequency": "Betalingshyppighed",
+        "installments": "Afdrag",
+        "interestRate": "Rentesats",
+        "plan": "Afbetalingsplan",
+        "plans": "Afbetalingsplaner",
+        "principalAmount": "Hovedstol",
+        "totalAmount": "Afdragsbeløb"
+    }
+}

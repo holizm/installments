@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "തവണ കരാറുകൾ",
+        "count": "തവണകളുടെ എണ്ണം",
+        "customer": "ഉപഭോക്താവ്",
+        "downPaymentPercentage": "മുൻകൂർ പണമടയ്ക്കൽ ശതമാനം",
+        "frequency": "പണമടയ്ക്കൽ ആവൃത്തി",
+        "installments": "തവണകൾ",
+        "interestRate": "പലിശ നിരക്ക്",
+        "plan": "തവണ പദ്ധതി",
+        "plans": "തവണ പദ്ധതികൾ",
+        "principalAmount": "മുതൽ തുക",
+        "totalAmount": "തവണ തുക"
+    }
+}

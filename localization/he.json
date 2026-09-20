@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "חוזי תשלומים",
+        "count": "מספר התשלומים",
+        "customer": "לקוח",
+        "downPaymentPercentage": "אחוז המקדמה",
+        "frequency": "תדירות התשלום",
+        "installments": "תשלומים",
+        "interestRate": "שיעור הריבית",
+        "plan": "תוכנית תשלומים",
+        "plans": "תוכניות תשלומים",
+        "principalAmount": "סכום הקרן",
+        "totalAmount": "סכום התשלום"
+    }
+}

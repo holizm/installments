@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Mikataba ya malipo kwa awamu",
+        "count": "Idadi ya awamu",
+        "customer": "Mteja",
+        "downPaymentPercentage": "Asilimia ya malipo ya awali",
+        "frequency": "Marudio ya malipo",
+        "installments": "Awamu",
+        "interestRate": "Kiwango cha riba",
+        "plan": "Mpango wa malipo kwa awamu",
+        "plans": "Mipango ya malipo kwa awamu",
+        "principalAmount": "Kiasi cha msingi",
+        "totalAmount": "Kiasi cha awamu"
+    }
+}

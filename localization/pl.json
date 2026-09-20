@@ -1,0 +1,15 @@
+{
+    "common": {
+        "contracts": "Umowy ratalne",
+        "count": "Liczba rat",
+        "customer": "Klient",
+        "downPaymentPercentage": "Procent wpłaty początkowej",
+        "frequency": "Częstotliwość płatności",
+        "installments": "Raty",
+        "interestRate": "Oprocentowanie",
+        "plan": "Plan ratalny",
+        "plans": "Plany ratalne",
+        "principalAmount": "Kwota kapitału",
+        "totalAmount": "Kwota raty"
+    }
+}
