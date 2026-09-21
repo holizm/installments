@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Taksit sözleşmeleri",
         "count": "Taksit sayısı",
-        "downPaymentPercentage": "Peşinat yüzdesi",
-        "frequency": "Ödeme sıklığı",
+        "installment": "Taksit",
+        "installmentContract": "Taksit sözleşmesi",
+        "installmentContracts": "Taksit sözleşmeleri",
+        "installmentFrequencies": "Taksit sıklıkları",
+        "installmentFrequency": "Ödeme sıklığı",
+        "installmentPayment": "Taksit ödemesi",
+        "installmentPayments": "Taksit ödemeleri",
+        "installmentPlan": "Taksit planı",
+        "installmentPlans": "Taksit planları",
+        "installmentReschedule": "Taksit yeniden planlama",
+        "installmentReschedules": "Taksit yeniden planlamaları",
         "installments": "Taksitler",
-        "interestRate": "Faiz oranı",
-        "plan": "Taksit planı",
-        "plans": "Taksit planları",
-        "principalAmount": "Anapara tutarı",
         "totalAmount": "Taksit tutarı"
     }
 }

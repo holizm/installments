@@ -3,11 +3,11 @@ export default [
         children: [
             {
                 path: '/installments/installmentContract/list',
-                title: 'installmentsContracts',
+                title: 'installmentsInstallmentContracts',
             },
             {
                 path: '/installments/installmentPlan/list',
-                title: 'installmentsPlans',
+                title: 'installmentsInstallmentPlans',
             },
         ],
         icon: 'calendarMonth',

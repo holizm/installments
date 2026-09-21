@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Afbetalingskontrakte",
         "count": "Aantal paaiemente",
-        "downPaymentPercentage": "Deposito-persentasie",
-        "frequency": "Frekwensie",
+        "installment": "Paaiement",
+        "installmentContract": "Paaiementkontrak",
+        "installmentContracts": "Afbetalingskontrakte",
+        "installmentFrequencies": "Paaiementfrekwensies",
+        "installmentFrequency": "Frekwensie",
+        "installmentPayment": "Paaiementbetaling",
+        "installmentPayments": "Paaiementbetalings",
+        "installmentPlan": "Afbetalingsplan",
+        "installmentPlans": "Afbetalingsplanne",
+        "installmentReschedule": "Paaiementherskedulering",
+        "installmentReschedules": "Paaiementherskedulerings",
         "installments": "Paaiemente",
-        "interestRate": "Rentekoers",
-        "plan": "Afbetalingsplan",
-        "plans": "Afbetalingsplanne",
-        "principalAmount": "Hoofsom",
         "totalAmount": "Paaiementbedrag"
     }
 }

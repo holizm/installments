@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "தவணை ஒப்பந்தங்கள்",
         "count": "தவணைகளின் எண்ணிக்கை",
-        "downPaymentPercentage": "முன்பண சதவீதம்",
-        "frequency": "பணம் செலுத்தும் இடைவெளி",
+        "installment": "தவணை",
+        "installmentContract": "தவணை ஒப்பந்தம்",
+        "installmentContracts": "தவணை ஒப்பந்தங்கள்",
+        "installmentFrequencies": "தவணை கால அளவுகள்",
+        "installmentFrequency": "பணம் செலுத்தும் இடைவெளி",
+        "installmentPayment": "தவணைப் பணம்",
+        "installmentPayments": "தவணைப் பணங்கள்",
+        "installmentPlan": "தவணைத் திட்டம்",
+        "installmentPlans": "தவணைத் திட்டங்கள்",
+        "installmentReschedule": "தவணை மறுஅட்டவணை",
+        "installmentReschedules": "தவணை மறுஅட்டவணைகள்",
         "installments": "தவணைகள்",
-        "interestRate": "வட்டி விகிதம்",
-        "plan": "தவணைத் திட்டம்",
-        "plans": "தவணைத் திட்டங்கள்",
-        "principalAmount": "அசல் தொகை",
         "totalAmount": "தவணைத் தொகை"
     }
 }

@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Договоры рассрочки",
         "count": "Количество платежей",
-        "downPaymentPercentage": "Процент первоначального взноса",
-        "frequency": "Периодичность платежей",
+        "installment": "Платёж в рассрочку",
+        "installmentContract": "Договор рассрочки",
+        "installmentContracts": "Договоры рассрочки",
+        "installmentFrequencies": "Периодичности платежей",
+        "installmentFrequency": "Периодичность платежей",
+        "installmentPayment": "Платёж по рассрочке",
+        "installmentPayments": "Платежи по рассрочке",
+        "installmentPlan": "План рассрочки",
+        "installmentPlans": "Планы рассрочки",
+        "installmentReschedule": "Перенос платежа",
+        "installmentReschedules": "Переносы платежей",
         "installments": "Платежи в рассрочку",
-        "interestRate": "Процентная ставка",
-        "plan": "План рассрочки",
-        "plans": "Планы рассрочки",
-        "principalAmount": "Основная сумма",
         "totalAmount": "Сумма платежа"
     }
 }

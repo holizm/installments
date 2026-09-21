@@ -5,11 +5,11 @@ import {
 import Form from './form'
 
 const headers = <>
-    <th start>installmentsPlan</th>
+    <th start>installmentsInstallmentPlan</th>
     <th>installmentsCode</th>
     <th>installmentsCount</th>
-    <th>installmentsFrequency</th>
-    <th>installmentsInterestRate</th>
+    <th>installmentsInstallmentFrequency</th>
+    <th>coreInterestRate</th>
 </>
 
 const row = item => <>

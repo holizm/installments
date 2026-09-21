@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Osamaksusopimukset",
         "count": "Erien määrä",
-        "downPaymentPercentage": "Käsirahan prosenttiosuus",
-        "frequency": "Maksuväli",
+        "installment": "Erä",
+        "installmentContract": "Osamaksusopimus",
+        "installmentContracts": "Osamaksusopimukset",
+        "installmentFrequencies": "Maksuerien toistuvuudet",
+        "installmentFrequency": "Maksuväli",
+        "installmentPayment": "Erämaksu",
+        "installmentPayments": "Erämaksut",
+        "installmentPlan": "Osamaksusuunnitelma",
+        "installmentPlans": "Osamaksusuunnitelmat",
+        "installmentReschedule": "Erän uudelleenaikataulutus",
+        "installmentReschedules": "Erien uudelleenaikataulutukset",
         "installments": "Maksuerät",
-        "interestRate": "Korkoprosentti",
-        "plan": "Osamaksusuunnitelma",
-        "plans": "Osamaksusuunnitelmat",
-        "principalAmount": "Pääoma",
         "totalAmount": "Maksuerän määrä"
     }
 }

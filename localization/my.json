@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "အရစ်ကျပေးချေမှု စာချုပ်များ",
         "count": "အရစ်ကျ အကြိမ်ရေ",
-        "downPaymentPercentage": "ကြိုတင်ပေးငွေ ရာခိုင်နှုန်း",
-        "frequency": "ငွေပေးချေမှု အကြိမ်နှုန်း",
+        "installment": "အရစ်ကျ",
+        "installmentContract": "အရစ်ကျ စာချုပ်",
+        "installmentContracts": "အရစ်ကျပေးချေမှု စာချုပ်များ",
+        "installmentFrequencies": "အရစ်ကျ ကြိမ်နှုန်းများ",
+        "installmentFrequency": "ငွေပေးချေမှု အကြိမ်နှုန်း",
+        "installmentPayment": "အရစ်ကျ ပေးချေမှု",
+        "installmentPayments": "အရစ်ကျ ပေးချေမှုများ",
+        "installmentPlan": "အရစ်ကျပေးချေမှု အစီအစဉ်",
+        "installmentPlans": "အရစ်ကျပေးချေမှု အစီအစဉ်များ",
+        "installmentReschedule": "အရစ်ကျ အချိန်ပြန်လည်သတ်မှတ်မှု",
+        "installmentReschedules": "အရစ်ကျ အချိန်ပြန်လည်သတ်မှတ်မှုများ",
         "installments": "အရစ်ကျငွေများ",
-        "interestRate": "အတိုးနှုန်း",
-        "plan": "အရစ်ကျပေးချေမှု အစီအစဉ်",
-        "plans": "အရစ်ကျပေးချေမှု အစီအစဉ်များ",
-        "principalAmount": "မူရင်းငွေပမာဏ",
         "totalAmount": "အရစ်ကျငွေပမာဏ"
     }
 }

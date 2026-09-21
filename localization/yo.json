@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Àwọn àdéhùn ìsanwó díẹ̀díẹ̀",
         "count": "Iye àwọn ìsanwó",
-        "downPaymentPercentage": "Ìdá ọgọ́rùn-ún owó ìbẹ̀rẹ̀",
-        "frequency": "Ìgbà tí a ń sanwó",
+        "installment": "Ìsan díẹ̀díẹ̀",
+        "installmentContract": "Àdéhùn ìsan díẹ̀díẹ̀",
+        "installmentContracts": "Àwọn àdéhùn ìsanwó díẹ̀díẹ̀",
+        "installmentFrequencies": "Àwọn ìgbà ìsan díẹ̀díẹ̀",
+        "installmentFrequency": "Ìgbà tí a ń sanwó",
+        "installmentPayment": "Ìsanwó díẹ̀díẹ̀",
+        "installmentPayments": "Àwọn ìsanwó díẹ̀díẹ̀",
+        "installmentPlan": "Ètò ìsanwó díẹ̀díẹ̀",
+        "installmentPlans": "Àwọn ètò ìsanwó díẹ̀díẹ̀",
+        "installmentReschedule": "Àtúntò ìsan díẹ̀díẹ̀",
+        "installmentReschedules": "Àwọn àtúntò ìsan díẹ̀díẹ̀",
         "installments": "Àwọn ìsanwó díẹ̀díẹ̀",
-        "interestRate": "Ìwọ̀n èrè",
-        "plan": "Ètò ìsanwó díẹ̀díẹ̀",
-        "plans": "Àwọn ètò ìsanwó díẹ̀díẹ̀",
-        "principalAmount": "Owó ìpilẹ̀",
         "totalAmount": "Iye ìsanwó kọ̀ọ̀kan"
     }
 }

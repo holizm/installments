@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "할부 계약",
         "count": "할부 횟수",
-        "downPaymentPercentage": "선결제 비율",
-        "frequency": "결제 주기",
+        "installment": "할부",
+        "installmentContract": "할부 계약",
+        "installmentContracts": "할부 계약",
+        "installmentFrequencies": "할부 빈도",
+        "installmentFrequency": "결제 주기",
+        "installmentPayment": "할부 결제",
+        "installmentPayments": "할부 결제",
+        "installmentPlan": "할부 계획",
+        "installmentPlans": "할부 계획",
+        "installmentReschedule": "할부 일정 변경",
+        "installmentReschedules": "할부 일정 변경",
         "installments": "할부",
-        "interestRate": "이자율",
-        "plan": "할부 계획",
-        "plans": "할부 계획",
-        "principalAmount": "원금",
         "totalAmount": "할부 금액"
     }
 }

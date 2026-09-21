@@ -12,7 +12,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='installmentsPlan'
+        placeholder='installmentsInstallmentPlan'
         property='installmentPlan'
         required
     />
@@ -22,7 +22,7 @@ const inputs = <>
         required
     />
     <Numeric
-        placeholder='installmentsPrincipalAmount'
+        placeholder='corePrincipalAmount'
         property='principalAmount'
         required
     />

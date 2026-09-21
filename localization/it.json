@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Contratti rateali",
         "count": "Numero di rate",
-        "downPaymentPercentage": "Percentuale di acconto",
-        "frequency": "Frequenza di pagamento",
+        "installment": "Rata",
+        "installmentContract": "Contratto rateale",
+        "installmentContracts": "Contratti rateali",
+        "installmentFrequencies": "Frequenze delle rate",
+        "installmentFrequency": "Frequenza di pagamento",
+        "installmentPayment": "Pagamento della rata",
+        "installmentPayments": "Pagamenti delle rate",
+        "installmentPlan": "Piano rateale",
+        "installmentPlans": "Piani rateali",
+        "installmentReschedule": "Riprogrammazione della rata",
+        "installmentReschedules": "Riprogrammazioni delle rate",
         "installments": "Rate",
-        "interestRate": "Tasso di interesse",
-        "plan": "Piano rateale",
-        "plans": "Piani rateali",
-        "principalAmount": "Importo capitale",
         "totalAmount": "Importo della rata"
     }
 }

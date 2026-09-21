@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Contratos de pagamento em prestações",
         "count": "Número de prestações",
-        "downPaymentPercentage": "Percentagem de entrada",
-        "frequency": "Frequência de pagamento",
+        "installment": "Prestação",
+        "installmentContract": "Contrato de prestações",
+        "installmentContracts": "Contratos de pagamento em prestações",
+        "installmentFrequencies": "Frequências das prestações",
+        "installmentFrequency": "Frequência de pagamento",
+        "installmentPayment": "Pagamento de prestação",
+        "installmentPayments": "Pagamentos de prestações",
+        "installmentPlan": "Plano de prestações",
+        "installmentPlans": "Planos de prestações",
+        "installmentReschedule": "Reagendamento de prestação",
+        "installmentReschedules": "Reagendamentos de prestações",
         "installments": "Prestações",
-        "interestRate": "Taxa de juro",
-        "plan": "Plano de prestações",
-        "plans": "Planos de prestações",
-        "principalAmount": "Montante principal",
         "totalAmount": "Valor da prestação"
     }
 }

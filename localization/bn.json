@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "কিস্তি চুক্তি",
         "count": "কিস্তির সংখ্যা",
-        "downPaymentPercentage": "অগ্রিম পরিশোধের শতাংশ",
-        "frequency": "পরিশোধের ব্যবধান",
+        "installment": "কিস্তি",
+        "installmentContract": "কিস্তি চুক্তি",
+        "installmentContracts": "কিস্তি চুক্তি",
+        "installmentFrequencies": "কিস্তির পুনরাবৃত্তি",
+        "installmentFrequency": "পরিশোধের ব্যবধান",
+        "installmentPayment": "কিস্তি পরিশোধ",
+        "installmentPayments": "কিস্তি পরিশোধসমূহ",
+        "installmentPlan": "কিস্তি পরিকল্পনা",
+        "installmentPlans": "কিস্তি পরিকল্পনাসমূহ",
+        "installmentReschedule": "কিস্তি পুনঃতফসিল",
+        "installmentReschedules": "কিস্তি পুনঃতফসিলসমূহ",
         "installments": "কিস্তি",
-        "interestRate": "সুদের হার",
-        "plan": "কিস্তি পরিকল্পনা",
-        "plans": "কিস্তি পরিকল্পনাসমূহ",
-        "principalAmount": "মূলধনের পরিমাণ",
         "totalAmount": "কিস্তির পরিমাণ"
     }
 }

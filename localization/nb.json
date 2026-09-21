@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Avbetalingsavtaler",
         "count": "Antall avdrag",
-        "downPaymentPercentage": "Prosentandel forskuddsbetaling",
-        "frequency": "Betalingsfrekvens",
+        "installment": "Avdrag",
+        "installmentContract": "Avdragskontrakt",
+        "installmentContracts": "Avbetalingsavtaler",
+        "installmentFrequencies": "Avdragsfrekvenser",
+        "installmentFrequency": "Betalingsfrekvens",
+        "installmentPayment": "Avdragsbetaling",
+        "installmentPayments": "Avdragsbetalinger",
+        "installmentPlan": "Avbetalingsplan",
+        "installmentPlans": "Avbetalingsplaner",
+        "installmentReschedule": "Omplanlegging av avdrag",
+        "installmentReschedules": "Omplanlegginger av avdrag",
         "installments": "Avdrag",
-        "interestRate": "Rentesats",
-        "plan": "Avbetalingsplan",
-        "plans": "Avbetalingsplaner",
-        "principalAmount": "Hovedstol",
         "totalAmount": "Avdragsbeløp"
     }
 }

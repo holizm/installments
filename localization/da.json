@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Afbetalingsaftaler",
         "count": "Antal afdrag",
-        "downPaymentPercentage": "Procentdel for udbetaling",
-        "frequency": "Betalingshyppighed",
+        "installment": "Rate",
+        "installmentContract": "Afbetalingskontrakt",
+        "installmentContracts": "Afbetalingsaftaler",
+        "installmentFrequencies": "Betalingsfrekvenser",
+        "installmentFrequency": "Betalingshyppighed",
+        "installmentPayment": "Ratebetaling",
+        "installmentPayments": "Ratebetalinger",
+        "installmentPlan": "Afbetalingsplan",
+        "installmentPlans": "Afbetalingsplaner",
+        "installmentReschedule": "Omlægning af rate",
+        "installmentReschedules": "Omlægninger af rater",
         "installments": "Afdrag",
-        "interestRate": "Rentesats",
-        "plan": "Afbetalingsplan",
-        "plans": "Afbetalingsplaner",
-        "principalAmount": "Hovedstol",
         "totalAmount": "Afdragsbeløb"
     }
 }

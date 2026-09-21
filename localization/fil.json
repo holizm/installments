@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Mga kontrata sa hulugan",
         "count": "Bilang ng hulog",
-        "downPaymentPercentage": "Porsiyento ng paunang bayad",
-        "frequency": "Dalas ng pagbabayad",
+        "installment": "Hulugan",
+        "installmentContract": "Kontrata sa hulugan",
+        "installmentContracts": "Mga kontrata sa hulugan",
+        "installmentFrequencies": "Mga dalas ng hulugan",
+        "installmentFrequency": "Dalas ng pagbabayad",
+        "installmentPayment": "Bayad sa hulugan",
+        "installmentPayments": "Mga bayad sa hulugan",
+        "installmentPlan": "Plano sa hulugan",
+        "installmentPlans": "Mga plano sa hulugan",
+        "installmentReschedule": "Muling iskedyul ng hulugan",
+        "installmentReschedules": "Mga muling iskedyul ng hulugan",
         "installments": "Mga hulog",
-        "interestRate": "Rate ng interes",
-        "plan": "Plano sa hulugan",
-        "plans": "Mga plano sa hulugan",
-        "principalAmount": "Pangunahing halaga",
         "totalAmount": "Halaga ng hulog"
     }
 }

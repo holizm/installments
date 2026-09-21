@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "ಕಂತು ಒಪ್ಪಂದಗಳು",
         "count": "ಕಂತುಗಳ ಸಂಖ್ಯೆ",
-        "downPaymentPercentage": "ಮುಂಗಡ ಪಾವತಿ ಶೇಕಡಾವಾರು",
-        "frequency": "ಪಾವತಿ ಆವರ್ತನೆ",
+        "installment": "ಕಂತು",
+        "installmentContract": "ಕಂತು ಒಪ್ಪಂದ",
+        "installmentContracts": "ಕಂತು ಒಪ್ಪಂದಗಳು",
+        "installmentFrequencies": "ಕಂತು ಆವರ್ತನಗಳು",
+        "installmentFrequency": "ಪಾವತಿ ಆವರ್ತನೆ",
+        "installmentPayment": "ಕಂತು ಪಾವತಿ",
+        "installmentPayments": "ಕಂತು ಪಾವತಿಗಳು",
+        "installmentPlan": "ಕಂತು ಯೋಜನೆ",
+        "installmentPlans": "ಕಂತು ಯೋಜನೆಗಳು",
+        "installmentReschedule": "ಕಂತು ಮರುನಿಗದಿ",
+        "installmentReschedules": "ಕಂತು ಮರುನಿಗದಿಗಳು",
         "installments": "ಕಂತುಗಳು",
-        "interestRate": "ಬಡ್ಡಿ ದರ",
-        "plan": "ಕಂತು ಯೋಜನೆ",
-        "plans": "ಕಂತು ಯೋಜನೆಗಳು",
-        "principalAmount": "ಅಸಲು ಮೊತ್ತ",
         "totalAmount": "ಕಂತಿನ ಮೊತ್ತ"
     }
 }

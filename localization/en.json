@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Installment contracts",
         "count": "Number of installments",
-        "downPaymentPercentage": "Down payment percentage",
-        "frequency": "Frequency",
+        "installment": "Installment",
+        "installmentContract": "Installment contract",
+        "installmentContracts": "Installment contracts",
+        "installmentFrequencies": "Installment frequencies",
+        "installmentFrequency": "Frequency",
+        "installmentPayment": "Installment payment",
+        "installmentPayments": "Installment payments",
+        "installmentPlan": "Installment plan",
+        "installmentPlans": "Installment plans",
+        "installmentReschedule": "Installment reschedule",
+        "installmentReschedules": "Installment reschedules",
         "installments": "Installments",
-        "interestRate": "Interest rate",
-        "plan": "Installment plan",
-        "plans": "Installment plans",
-        "principalAmount": "Principal amount",
         "totalAmount": "Installment amount"
     }
 }

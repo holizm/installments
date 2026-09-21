@@ -26,16 +26,16 @@ const inputs = <>
             'quarterly',
             'custom',
         ]}
-        placeholder='installmentsFrequency'
+        placeholder='installmentsInstallmentFrequency'
         property='installmentFrequency'
         required
     />
     <Numeric
-        placeholder='installmentsDownPaymentPercentage'
+        placeholder='coreDownPaymentPercentage'
         property='downPaymentPercentage'
     />
     <Numeric
-        placeholder='installmentsInterestRate'
+        placeholder='coreInterestRate'
         property='interestRate'
     />
     <LongText

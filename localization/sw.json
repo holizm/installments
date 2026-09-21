@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Mikataba ya malipo kwa awamu",
         "count": "Idadi ya awamu",
-        "downPaymentPercentage": "Asilimia ya malipo ya awali",
-        "frequency": "Marudio ya malipo",
+        "installment": "Awamu",
+        "installmentContract": "Mkataba wa malipo kwa awamu",
+        "installmentContracts": "Mikataba ya malipo kwa awamu",
+        "installmentFrequencies": "Marudio ya awamu",
+        "installmentFrequency": "Marudio ya malipo",
+        "installmentPayment": "Malipo ya awamu",
+        "installmentPayments": "Malipo ya awamu",
+        "installmentPlan": "Mpango wa malipo kwa awamu",
+        "installmentPlans": "Mipango ya malipo kwa awamu",
+        "installmentReschedule": "Kupanga upya awamu",
+        "installmentReschedules": "Mipango mipya ya awamu",
         "installments": "Awamu",
-        "interestRate": "Kiwango cha riba",
-        "plan": "Mpango wa malipo kwa awamu",
-        "plans": "Mipango ya malipo kwa awamu",
-        "principalAmount": "Kiasi cha msingi",
         "totalAmount": "Kiasi cha awamu"
     }
 }

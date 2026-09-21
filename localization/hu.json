@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Részletfizetési szerződések",
         "count": "Részletek száma",
-        "downPaymentPercentage": "Előleg százaléka",
-        "frequency": "Fizetési gyakoriság",
+        "installment": "Részlet",
+        "installmentContract": "Részletfizetési szerződés",
+        "installmentContracts": "Részletfizetési szerződések",
+        "installmentFrequencies": "Részletfizetési gyakoriságok",
+        "installmentFrequency": "Fizetési gyakoriság",
+        "installmentPayment": "Részletfizetés",
+        "installmentPayments": "Részletfizetések",
+        "installmentPlan": "Részletfizetési terv",
+        "installmentPlans": "Részletfizetési tervek",
+        "installmentReschedule": "Részlet átütemezése",
+        "installmentReschedules": "Részletek átütemezései",
         "installments": "Részletek",
-        "interestRate": "Kamatláb",
-        "plan": "Részletfizetési terv",
-        "plans": "Részletfizetési tervek",
-        "principalAmount": "Tőkeösszeg",
         "totalAmount": "Részlet összege"
     }
 }

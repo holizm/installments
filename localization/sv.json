@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Avbetalningsavtal",
         "count": "Antal delbetalningar",
-        "downPaymentPercentage": "Procentuell kontantinsats",
-        "frequency": "Betalningsfrekvens",
+        "installment": "Delbetalning",
+        "installmentContract": "Delbetalningsavtal",
+        "installmentContracts": "Avbetalningsavtal",
+        "installmentFrequencies": "Delbetalningsfrekvenser",
+        "installmentFrequency": "Betalningsfrekvens",
+        "installmentPayment": "Delbetalning",
+        "installmentPayments": "Delbetalningar",
+        "installmentPlan": "Avbetalningsplan",
+        "installmentPlans": "Avbetalningsplaner",
+        "installmentReschedule": "Omplanering av delbetalning",
+        "installmentReschedules": "Omplaneringar av delbetalningar",
         "installments": "Delbetalningar",
-        "interestRate": "Räntesats",
-        "plan": "Avbetalningsplan",
-        "plans": "Avbetalningsplaner",
-        "principalAmount": "Kapitalbelopp",
         "totalAmount": "Delbetalningsbelopp"
     }
 }

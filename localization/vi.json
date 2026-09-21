@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Hợp đồng trả góp",
         "count": "Số kỳ trả góp",
-        "downPaymentPercentage": "Tỷ lệ trả trước",
-        "frequency": "Tần suất thanh toán",
+        "installment": "Khoản trả góp",
+        "installmentContract": "Hợp đồng trả góp",
+        "installmentContracts": "Hợp đồng trả góp",
+        "installmentFrequencies": "Tần suất trả góp",
+        "installmentFrequency": "Tần suất thanh toán",
+        "installmentPayment": "Thanh toán trả góp",
+        "installmentPayments": "Các khoản thanh toán trả góp",
+        "installmentPlan": "Kế hoạch trả góp",
+        "installmentPlans": "Các kế hoạch trả góp",
+        "installmentReschedule": "Lập lại lịch trả góp",
+        "installmentReschedules": "Các lần lập lại lịch trả góp",
         "installments": "Các kỳ trả góp",
-        "interestRate": "Lãi suất",
-        "plan": "Kế hoạch trả góp",
-        "plans": "Các kế hoạch trả góp",
-        "principalAmount": "Số tiền gốc",
         "totalAmount": "Số tiền mỗi kỳ"
     }
 }

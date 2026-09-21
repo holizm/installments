@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Yarjejen biyan kashi-kashi",
         "count": "Yawan kashi-kashi",
-        "downPaymentPercentage": "Kason kuɗin farko",
-        "frequency": "Yawan lokutan biyan kuɗi",
+        "installment": "Kashi",
+        "installmentContract": "Yarjejen biyan kashi-kashi",
+        "installmentContracts": "Yarjejen biyan kashi-kashi",
+        "installmentFrequencies": "Mitar biyan kashi-kashi",
+        "installmentFrequency": "Yawan lokutan biyan kuɗi",
+        "installmentPayment": "Biyan kashi",
+        "installmentPayments": "Biyan kashi-kashi",
+        "installmentPlan": "Tsarin biyan kashi-kashi",
+        "installmentPlans": "Tsare-tsaren biyan kashi-kashi",
+        "installmentReschedule": "Sake tsara ranar kashi",
+        "installmentReschedules": "Sake tsara ranakun kashi",
         "installments": "Kashi-kashi",
-        "interestRate": "Kuɗin ruwa",
-        "plan": "Tsarin biyan kashi-kashi",
-        "plans": "Tsare-tsaren biyan kashi-kashi",
-        "principalAmount": "Babban adadin kuɗi",
         "totalAmount": "Adadin kashi"
     }
 }

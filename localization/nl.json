@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Termijnbetalingsovereenkomsten",
         "count": "Aantal termijnen",
-        "downPaymentPercentage": "Percentage aanbetaling",
-        "frequency": "Betalingsfrequentie",
+        "installment": "Termijn",
+        "installmentContract": "Termijnovereenkomst",
+        "installmentContracts": "Termijnbetalingsovereenkomsten",
+        "installmentFrequencies": "Termijnfrequenties",
+        "installmentFrequency": "Betalingsfrequentie",
+        "installmentPayment": "Termijnbetaling",
+        "installmentPayments": "Termijnbetalingen",
+        "installmentPlan": "Termijnbetalingsplan",
+        "installmentPlans": "Termijnbetalingsplannen",
+        "installmentReschedule": "Herplanning van termijn",
+        "installmentReschedules": "Herplanningen van termijnen",
         "installments": "Termijnen",
-        "interestRate": "Rentepercentage",
-        "plan": "Termijnbetalingsplan",
-        "plans": "Termijnbetalingsplannen",
-        "principalAmount": "Hoofdsom",
         "totalAmount": "Termijnbedrag"
     }
 }

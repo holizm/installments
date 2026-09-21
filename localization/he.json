@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "חוזי תשלומים",
         "count": "מספר התשלומים",
-        "downPaymentPercentage": "אחוז המקדמה",
-        "frequency": "תדירות התשלום",
+        "installment": "תשלום",
+        "installmentContract": "חוזה תשלומים",
+        "installmentContracts": "חוזי תשלומים",
+        "installmentFrequencies": "תדירויות תשלומים",
+        "installmentFrequency": "תדירות התשלום",
+        "installmentPayment": "תשלום בתשלומים",
+        "installmentPayments": "תשלומים בתשלומים",
+        "installmentPlan": "תוכנית תשלומים",
+        "installmentPlans": "תוכניות תשלומים",
+        "installmentReschedule": "תזמון מחדש של תשלום",
+        "installmentReschedules": "תזמונים מחדש של תשלומים",
         "installments": "תשלומים",
-        "interestRate": "שיעור הריבית",
-        "plan": "תוכנית תשלומים",
-        "plans": "תוכניות תשלומים",
-        "principalAmount": "סכום הקרן",
         "totalAmount": "סכום התשלום"
     }
 }

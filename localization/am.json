@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "የክፍያ ክፍፍል ውሎች",
         "count": "የክፍያ ክፍፍሎች ብዛት",
-        "downPaymentPercentage": "የቅድሚያ ክፍያ መቶኛ",
-        "frequency": "የክፍያ ድግግሞሽ",
+        "installment": "ክፍያ",
+        "installmentContract": "የክፍያ ውል",
+        "installmentContracts": "የክፍያ ክፍፍል ውሎች",
+        "installmentFrequencies": "የክፍያ ድግግሞሽ",
+        "installmentFrequency": "የክፍያ ድግግሞሽ",
+        "installmentPayment": "የክፍያ ክፍያ",
+        "installmentPayments": "የክፍያ ክፍያዎች",
+        "installmentPlan": "የክፍያ ክፍፍል ዕቅድ",
+        "installmentPlans": "የክፍያ ክፍፍል ዕቅዶች",
+        "installmentReschedule": "የክፍያ ጊዜ ለውጥ",
+        "installmentReschedules": "የክፍያ ጊዜ ለውጦች",
         "installments": "የክፍያ ክፍፍሎች",
-        "interestRate": "የወለድ ተመን",
-        "plan": "የክፍያ ክፍፍል ዕቅድ",
-        "plans": "የክፍያ ክፍፍል ዕቅዶች",
-        "principalAmount": "ዋና ገንዘብ",
         "totalAmount": "የክፍያ ክፍፍል መጠን"
     }
 }

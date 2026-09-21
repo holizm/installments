@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "હપ્તાના કરારો",
         "count": "હપ્તાઓની સંખ્યા",
-        "downPaymentPercentage": "ડાઉન પેમેન્ટની ટકાવારી",
-        "frequency": "ચુકવણીની આવર્તનતા",
+        "installment": "હપ્તો",
+        "installmentContract": "હપ્તાનો કરાર",
+        "installmentContracts": "હપ્તાના કરારો",
+        "installmentFrequencies": "હપ્તાની આવર્તનો",
+        "installmentFrequency": "ચુકવણીની આવર્તનતા",
+        "installmentPayment": "હપ્તાની ચુકવણી",
+        "installmentPayments": "હપ્તાની ચુકવણીઓ",
+        "installmentPlan": "હપ્તા યોજના",
+        "installmentPlans": "હપ્તા યોજનાઓ",
+        "installmentReschedule": "હપ્તાનું પુનઃનિર્ધારણ",
+        "installmentReschedules": "હપ્તાના પુનઃનિર્ધારણો",
         "installments": "હપ્તાઓ",
-        "interestRate": "વ્યાજ દર",
-        "plan": "હપ્તા યોજના",
-        "plans": "હપ્તા યોજનાઓ",
-        "principalAmount": "મૂડી રકમ",
         "totalAmount": "હપ્તાની રકમ"
     }
 }

@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Договори за разсрочено плащане",
         "count": "Брой вноски",
-        "downPaymentPercentage": "Процент на първоначалната вноска",
-        "frequency": "Периодичност",
+        "installment": "Вноска",
+        "installmentContract": "Договор за разсрочено плащане",
+        "installmentContracts": "Договори за разсрочено плащане",
+        "installmentFrequencies": "Честоти на вноските",
+        "installmentFrequency": "Периодичност",
+        "installmentPayment": "Плащане на вноска",
+        "installmentPayments": "Плащания на вноски",
+        "installmentPlan": "План за разсрочено плащане",
+        "installmentPlans": "Планове за разсрочено плащане",
+        "installmentReschedule": "Пренасрочване на вноска",
+        "installmentReschedules": "Пренасрочвания на вноски",
         "installments": "Вноски",
-        "interestRate": "Лихвен процент",
-        "plan": "План за разсрочено плащане",
-        "plans": "Планове за разсрочено плащане",
-        "principalAmount": "Главница",
         "totalAmount": "Размер на вноската"
     }
 }

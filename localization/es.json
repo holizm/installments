@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Contratos de pago a plazos",
         "count": "Número de cuotas",
-        "downPaymentPercentage": "Porcentaje de pago inicial",
-        "frequency": "Frecuencia de pago",
+        "installment": "Cuota",
+        "installmentContract": "Contrato a plazos",
+        "installmentContracts": "Contratos de pago a plazos",
+        "installmentFrequencies": "Frecuencias de cuotas",
+        "installmentFrequency": "Frecuencia de pago",
+        "installmentPayment": "Pago de cuota",
+        "installmentPayments": "Pagos de cuotas",
+        "installmentPlan": "Plan de cuotas",
+        "installmentPlans": "Planes de cuotas",
+        "installmentReschedule": "Reprogramación de cuota",
+        "installmentReschedules": "Reprogramaciones de cuotas",
         "installments": "Cuotas",
-        "interestRate": "Tasa de interés",
-        "plan": "Plan de cuotas",
-        "plans": "Planes de cuotas",
-        "principalAmount": "Importe principal",
         "totalAmount": "Importe de la cuota"
     }
 }

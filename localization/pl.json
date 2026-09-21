@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Umowy ratalne",
         "count": "Liczba rat",
-        "downPaymentPercentage": "Procent wpłaty początkowej",
-        "frequency": "Częstotliwość płatności",
+        "installment": "Rata",
+        "installmentContract": "Umowa ratalna",
+        "installmentContracts": "Umowy ratalne",
+        "installmentFrequencies": "Częstotliwości rat",
+        "installmentFrequency": "Częstotliwość płatności",
+        "installmentPayment": "Płatność raty",
+        "installmentPayments": "Płatności rat",
+        "installmentPlan": "Plan ratalny",
+        "installmentPlans": "Plany ratalne",
+        "installmentReschedule": "Zmiana harmonogramu raty",
+        "installmentReschedules": "Zmiany harmonogramu rat",
         "installments": "Raty",
-        "interestRate": "Oprocentowanie",
-        "plan": "Plan ratalny",
-        "plans": "Plany ratalne",
-        "principalAmount": "Kwota kapitału",
         "totalAmount": "Kwota raty"
     }
 }

@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Smlouvy o splátkách",
         "count": "Počet splátek",
-        "downPaymentPercentage": "Procento akontace",
-        "frequency": "Frekvence splátek",
+        "installment": "Splátka",
+        "installmentContract": "Splátková smlouva",
+        "installmentContracts": "Smlouvy o splátkách",
+        "installmentFrequencies": "Frekvence splátek",
+        "installmentFrequency": "Frekvence splátek",
+        "installmentPayment": "Úhrada splátky",
+        "installmentPayments": "Úhrady splátek",
+        "installmentPlan": "Splátkový plán",
+        "installmentPlans": "Splátkové plány",
+        "installmentReschedule": "Přeplánování splátky",
+        "installmentReschedules": "Přeplánování splátek",
         "installments": "Splátky",
-        "interestRate": "Úroková sazba",
-        "plan": "Splátkový plán",
-        "plans": "Splátkové plány",
-        "principalAmount": "Jistina",
         "totalAmount": "Výše splátky"
     }
 }

@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Συμβάσεις δόσεων",
         "count": "Αριθμός δόσεων",
-        "downPaymentPercentage": "Ποσοστό προκαταβολής",
-        "frequency": "Συχνότητα πληρωμών",
+        "installment": "Δόση",
+        "installmentContract": "Σύμβαση δόσεων",
+        "installmentContracts": "Συμβάσεις δόσεων",
+        "installmentFrequencies": "Συχνότητες δόσεων",
+        "installmentFrequency": "Συχνότητα πληρωμών",
+        "installmentPayment": "Πληρωμή δόσης",
+        "installmentPayments": "Πληρωμές δόσεων",
+        "installmentPlan": "Πλάνο δόσεων",
+        "installmentPlans": "Πλάνα δόσεων",
+        "installmentReschedule": "Επαναπρογραμματισμός δόσης",
+        "installmentReschedules": "Επαναπρογραμματισμοί δόσεων",
         "installments": "Δόσεις",
-        "interestRate": "Επιτόκιο",
-        "plan": "Πλάνο δόσεων",
-        "plans": "Πλάνα δόσεων",
-        "principalAmount": "Αρχικό κεφάλαιο",
         "totalAmount": "Ποσό δόσης"
     }
 }

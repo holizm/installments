@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Уговори о отплати на рате",
         "count": "Број рата",
-        "downPaymentPercentage": "Проценат учешћа",
-        "frequency": "Учесталост плаћања",
+        "installment": "Рата",
+        "installmentContract": "Уговор о отплати на рате",
+        "installmentContracts": "Уговори о отплати на рате",
+        "installmentFrequencies": "Учесталости рата",
+        "installmentFrequency": "Учесталост плаћања",
+        "installmentPayment": "Плаћање рате",
+        "installmentPayments": "Плаћања рата",
+        "installmentPlan": "План отплате на рате",
+        "installmentPlans": "Планови отплате на рате",
+        "installmentReschedule": "Промена распореда рате",
+        "installmentReschedules": "Промене распореда рата",
         "installments": "Рате",
-        "interestRate": "Каматна стопа",
-        "plan": "План отплате на рате",
-        "plans": "Планови отплате на рате",
-        "principalAmount": "Износ главнице",
         "totalAmount": "Износ рате"
     }
 }

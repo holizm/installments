@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Ugovori o obročnoj otplati",
         "count": "Broj rata",
-        "downPaymentPercentage": "Postotak predujma",
-        "frequency": "Učestalost plaćanja",
+        "installment": "Rata",
+        "installmentContract": "Ugovor o obročnoj otplati",
+        "installmentContracts": "Ugovori o obročnoj otplati",
+        "installmentFrequencies": "Učestalosti rata",
+        "installmentFrequency": "Učestalost plaćanja",
+        "installmentPayment": "Plaćanje rate",
+        "installmentPayments": "Plaćanja rata",
+        "installmentPlan": "Plan obročne otplate",
+        "installmentPlans": "Planovi obročne otplate",
+        "installmentReschedule": "Promjena rasporeda rate",
+        "installmentReschedules": "Promjene rasporeda rata",
         "installments": "Rate",
-        "interestRate": "Kamatna stopa",
-        "plan": "Plan obročne otplate",
-        "plans": "Planovi obročne otplate",
-        "principalAmount": "Iznos glavnice",
         "totalAmount": "Iznos rate"
     }
 }

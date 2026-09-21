@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "分期付款合同",
         "count": "分期期数",
-        "downPaymentPercentage": "首付比例",
-        "frequency": "付款频率",
+        "installment": "分期付款",
+        "installmentContract": "分期付款合同",
+        "installmentContracts": "分期付款合同",
+        "installmentFrequencies": "分期频率",
+        "installmentFrequency": "付款频率",
+        "installmentPayment": "分期付款记录",
+        "installmentPayments": "分期付款记录",
+        "installmentPlan": "分期付款方案",
+        "installmentPlans": "分期付款方案",
+        "installmentReschedule": "分期重新安排",
+        "installmentReschedules": "分期重新安排",
         "installments": "分期付款",
-        "interestRate": "利率",
-        "plan": "分期付款方案",
-        "plans": "分期付款方案",
-        "principalAmount": "本金金额",
         "totalAmount": "每期金额"
     }
 }

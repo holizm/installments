@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "สัญญาผ่อนชำระ",
         "count": "จำนวนงวด",
-        "downPaymentPercentage": "เปอร์เซ็นต์เงินดาวน์",
-        "frequency": "ความถี่ในการชำระเงิน",
+        "installment": "งวดชำระ",
+        "installmentContract": "สัญญาผ่อนชำระ",
+        "installmentContracts": "สัญญาผ่อนชำระ",
+        "installmentFrequencies": "ความถี่ของงวดชำระ",
+        "installmentFrequency": "ความถี่ในการชำระเงิน",
+        "installmentPayment": "การชำระงวด",
+        "installmentPayments": "การชำระงวด",
+        "installmentPlan": "แผนผ่อนชำระ",
+        "installmentPlans": "แผนผ่อนชำระ",
+        "installmentReschedule": "การปรับกำหนดงวด",
+        "installmentReschedules": "การปรับกำหนดงวด",
         "installments": "งวดชำระ",
-        "interestRate": "อัตราดอกเบี้ย",
-        "plan": "แผนผ่อนชำระ",
-        "plans": "แผนผ่อนชำระ",
-        "principalAmount": "เงินต้น",
         "totalAmount": "จำนวนเงินต่องวด"
     }
 }

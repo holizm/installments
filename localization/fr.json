@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Contrats de paiement échelonné",
         "count": "Nombre d’échéances",
-        "downPaymentPercentage": "Pourcentage d’acompte",
-        "frequency": "Fréquence des paiements",
+        "installment": "Échéance",
+        "installmentContract": "Contrat à tempérament",
+        "installmentContracts": "Contrats de paiement échelonné",
+        "installmentFrequencies": "Fréquences des échéances",
+        "installmentFrequency": "Fréquence des paiements",
+        "installmentPayment": "Paiement d’échéance",
+        "installmentPayments": "Paiements d’échéances",
+        "installmentPlan": "Plan de paiement échelonné",
+        "installmentPlans": "Plans de paiement échelonné",
+        "installmentReschedule": "Rééchelonnement",
+        "installmentReschedules": "Rééchelonnements",
         "installments": "Échéances",
-        "interestRate": "Taux d’intérêt",
-        "plan": "Plan de paiement échelonné",
-        "plans": "Plans de paiement échelonné",
-        "principalAmount": "Montant du principal",
         "totalAmount": "Montant de l’échéance"
     }
 }

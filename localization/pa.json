@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "ਕਿਸ਼ਤ ਸਮਝੌਤੇ",
         "count": "ਕਿਸ਼ਤਾਂ ਦੀ ਗਿਣਤੀ",
-        "downPaymentPercentage": "ਅਗਾਊਂ ਭੁਗਤਾਨ ਪ੍ਰਤੀਸ਼ਤ",
-        "frequency": "ਭੁਗਤਾਨ ਦੀ ਆਵਿਰਤੀ",
+        "installment": "ਕਿਸ਼ਤ",
+        "installmentContract": "ਕਿਸ਼ਤ ਇਕਰਾਰਨਾਮਾ",
+        "installmentContracts": "ਕਿਸ਼ਤ ਸਮਝੌਤੇ",
+        "installmentFrequencies": "ਕਿਸ਼ਤ ਦੀਆਂ ਆਵਿਰਤੀਆਂ",
+        "installmentFrequency": "ਭੁਗਤਾਨ ਦੀ ਆਵਿਰਤੀ",
+        "installmentPayment": "ਕਿਸ਼ਤ ਭੁਗਤਾਨ",
+        "installmentPayments": "ਕਿਸ਼ਤ ਭੁਗਤਾਨ",
+        "installmentPlan": "ਕਿਸ਼ਤ ਯੋਜਨਾ",
+        "installmentPlans": "ਕਿਸ਼ਤ ਯੋਜਨਾਵਾਂ",
+        "installmentReschedule": "ਕਿਸ਼ਤ ਮੁੜ-ਨਿਰਧਾਰਨ",
+        "installmentReschedules": "ਕਿਸ਼ਤ ਮੁੜ-ਨਿਰਧਾਰਨ",
         "installments": "ਕਿਸ਼ਤਾਂ",
-        "interestRate": "ਵਿਆਜ ਦਰ",
-        "plan": "ਕਿਸ਼ਤ ਯੋਜਨਾ",
-        "plans": "ਕਿਸ਼ਤ ਯੋਜਨਾਵਾਂ",
-        "principalAmount": "ਮੂਲ ਰਕਮ",
         "totalAmount": "ਕਿਸ਼ਤ ਦੀ ਰਕਮ"
     }
 }

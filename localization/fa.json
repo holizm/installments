@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "قراردادهای اقساطی",
         "count": "تعداد اقساط",
-        "downPaymentPercentage": "درصد پیش‌پرداخت",
-        "frequency": "دوره پرداخت",
+        "installment": "قسط",
+        "installmentContract": "قرارداد اقساطی",
+        "installmentContracts": "قراردادهای اقساطی",
+        "installmentFrequencies": "دوره‌های اقساط",
+        "installmentFrequency": "دوره پرداخت",
+        "installmentPayment": "پرداخت قسط",
+        "installmentPayments": "پرداخت‌های اقساط",
+        "installmentPlan": "طرح اقساط",
+        "installmentPlans": "طرح‌های اقساط",
+        "installmentReschedule": "زمان‌بندی مجدد قسط",
+        "installmentReschedules": "زمان‌بندی‌های مجدد اقساط",
         "installments": "اقساط",
-        "interestRate": "نرخ سود",
-        "plan": "طرح اقساط",
-        "plans": "طرح‌های اقساط",
-        "principalAmount": "مبلغ اصل",
         "totalAmount": "مبلغ قسط"
     }
 }

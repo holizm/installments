@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "عقود التقسيط",
         "count": "عدد الأقساط",
-        "downPaymentPercentage": "نسبة الدفعة المقدمة",
-        "frequency": "دورية السداد",
+        "installment": "قسط",
+        "installmentContract": "عقد تقسيط",
+        "installmentContracts": "عقود التقسيط",
+        "installmentFrequencies": "دوريات الأقساط",
+        "installmentFrequency": "دورية السداد",
+        "installmentPayment": "دفعة قسط",
+        "installmentPayments": "دفعات الأقساط",
+        "installmentPlan": "خطة التقسيط",
+        "installmentPlans": "خطط التقسيط",
+        "installmentReschedule": "إعادة جدولة قسط",
+        "installmentReschedules": "إعادات جدولة الأقساط",
         "installments": "الأقساط",
-        "interestRate": "معدل الفائدة",
-        "plan": "خطة التقسيط",
-        "plans": "خطط التقسيط",
-        "principalAmount": "المبلغ الأصلي",
         "totalAmount": "مبلغ القسط"
     }
 }

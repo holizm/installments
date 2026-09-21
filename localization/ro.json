@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Contracte de plată în rate",
         "count": "Număr de rate",
-        "downPaymentPercentage": "Procentul avansului",
-        "frequency": "Frecvența plăților",
+        "installment": "Rată",
+        "installmentContract": "Contract de rate",
+        "installmentContracts": "Contracte de plată în rate",
+        "installmentFrequencies": "Frecvențe ale ratelor",
+        "installmentFrequency": "Frecvența plăților",
+        "installmentPayment": "Plata ratei",
+        "installmentPayments": "Plăți ale ratelor",
+        "installmentPlan": "Plan de rate",
+        "installmentPlans": "Planuri de rate",
+        "installmentReschedule": "Reprogramarea ratei",
+        "installmentReschedules": "Reprogramări ale ratelor",
         "installments": "Rate",
-        "interestRate": "Rata dobânzii",
-        "plan": "Plan de rate",
-        "plans": "Planuri de rate",
-        "principalAmount": "Valoarea principalului",
         "totalAmount": "Valoarea ratei"
     }
 }

@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Kontrak cicilan",
         "count": "Jumlah cicilan",
-        "downPaymentPercentage": "Persentase uang muka",
-        "frequency": "Frekuensi pembayaran",
+        "installment": "Cicilan",
+        "installmentContract": "Kontrak cicilan",
+        "installmentContracts": "Kontrak cicilan",
+        "installmentFrequencies": "Frekuensi cicilan",
+        "installmentFrequency": "Frekuensi pembayaran",
+        "installmentPayment": "Pembayaran cicilan",
+        "installmentPayments": "Pembayaran cicilan",
+        "installmentPlan": "Paket cicilan",
+        "installmentPlans": "Paket cicilan",
+        "installmentReschedule": "Penjadwalan ulang cicilan",
+        "installmentReschedules": "Penjadwalan ulang cicilan",
         "installments": "Cicilan",
-        "interestRate": "Suku bunga",
-        "plan": "Paket cicilan",
-        "plans": "Paket cicilan",
-        "principalAmount": "Jumlah pokok",
         "totalAmount": "Jumlah cicilan"
     }
 }

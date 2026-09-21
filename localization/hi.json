@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "किस्त अनुबंध",
         "count": "किस्तों की संख्या",
-        "downPaymentPercentage": "अग्रिम भुगतान प्रतिशत",
-        "frequency": "भुगतान आवृत्ति",
+        "installment": "किस्त",
+        "installmentContract": "किस्त अनुबंध",
+        "installmentContracts": "किस्त अनुबंध",
+        "installmentFrequencies": "किस्त आवृत्तियाँ",
+        "installmentFrequency": "भुगतान आवृत्ति",
+        "installmentPayment": "किस्त भुगतान",
+        "installmentPayments": "किस्त भुगतान",
+        "installmentPlan": "किस्त योजना",
+        "installmentPlans": "किस्त योजनाएँ",
+        "installmentReschedule": "किस्त पुनर्निर्धारण",
+        "installmentReschedules": "किस्त पुनर्निर्धारण",
         "installments": "किस्तें",
-        "interestRate": "ब्याज दर",
-        "plan": "किस्त योजना",
-        "plans": "किस्त योजनाएँ",
-        "principalAmount": "मूलधन राशि",
         "totalAmount": "किस्त राशि"
     }
 }

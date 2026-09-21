@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "分割払い契約",
         "count": "分割回数",
-        "downPaymentPercentage": "頭金の割合",
-        "frequency": "支払い頻度",
+        "installment": "分割払い",
+        "installmentContract": "分割払い契約",
+        "installmentContracts": "分割払い契約",
+        "installmentFrequencies": "分割払い頻度",
+        "installmentFrequency": "支払い頻度",
+        "installmentPayment": "分割払いの支払い",
+        "installmentPayments": "分割払いの支払い",
+        "installmentPlan": "分割払いプラン",
+        "installmentPlans": "分割払いプラン",
+        "installmentReschedule": "分割払いの再設定",
+        "installmentReschedules": "分割払いの再設定",
         "installments": "分割払い",
-        "interestRate": "金利",
-        "plan": "分割払いプラン",
-        "plans": "分割払いプラン",
-        "principalAmount": "元金",
         "totalAmount": "分割払い金額"
     }
 }

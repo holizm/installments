@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "اقساط کے معاہدے",
         "count": "اقساط کی تعداد",
-        "downPaymentPercentage": "پیشگی ادائیگی کا فیصد",
-        "frequency": "ادائیگی کی تعداد",
+        "installment": "قسط",
+        "installmentContract": "قسط کا معاہدہ",
+        "installmentContracts": "اقساط کے معاہدے",
+        "installmentFrequencies": "قسط کی تعدد",
+        "installmentFrequency": "ادائیگی کی تعداد",
+        "installmentPayment": "قسط کی ادائیگی",
+        "installmentPayments": "قسط کی ادائیگیاں",
+        "installmentPlan": "اقساطی منصوبہ",
+        "installmentPlans": "اقساطی منصوبے",
+        "installmentReschedule": "قسط کی دوبارہ ترتیب",
+        "installmentReschedules": "قسط کی دوبارہ ترتیبیں",
         "installments": "اقساط",
-        "interestRate": "شرح سود",
-        "plan": "اقساطی منصوبہ",
-        "plans": "اقساطی منصوبے",
-        "principalAmount": "اصل رقم",
         "totalAmount": "قسط کی رقم"
     }
 }

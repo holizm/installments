@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "వాయిదా ఒప్పందాలు",
         "count": "వాయిదాల సంఖ్య",
-        "downPaymentPercentage": "ముందస్తు చెల్లింపు శాతం",
-        "frequency": "చెల్లింపు తరచుదనం",
+        "installment": "వాయిదా",
+        "installmentContract": "వాయిదా ఒప్పందం",
+        "installmentContracts": "వాయిదా ఒప్పందాలు",
+        "installmentFrequencies": "వాయిదా పునరావృతాలు",
+        "installmentFrequency": "చెల్లింపు తరచుదనం",
+        "installmentPayment": "వాయిదా చెల్లింపు",
+        "installmentPayments": "వాయిదా చెల్లింపులు",
+        "installmentPlan": "వాయిదా ప్రణాళిక",
+        "installmentPlans": "వాయిదా ప్రణాళికలు",
+        "installmentReschedule": "వాయిదా పునర్నిర్ణయం",
+        "installmentReschedules": "వాయిదా పునర్నిర్ణయాలు",
         "installments": "వాయిదాలు",
-        "interestRate": "వడ్డీ రేటు",
-        "plan": "వాయిదా ప్రణాళిక",
-        "plans": "వాయిదా ప్రణాళికలు",
-        "principalAmount": "అసలు మొత్తం",
         "totalAmount": "వాయిదా మొత్తం"
     }
 }

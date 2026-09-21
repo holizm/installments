@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "തവണ കരാറുകൾ",
         "count": "തവണകളുടെ എണ്ണം",
-        "downPaymentPercentage": "മുൻകൂർ പണമടയ്ക്കൽ ശതമാനം",
-        "frequency": "പണമടയ്ക്കൽ ആവൃത്തി",
+        "installment": "തവണ",
+        "installmentContract": "തവണ കരാർ",
+        "installmentContracts": "തവണ കരാറുകൾ",
+        "installmentFrequencies": "തവണ ആവൃത്തികൾ",
+        "installmentFrequency": "പണമടയ്ക്കൽ ആവൃത്തി",
+        "installmentPayment": "തവണ പണമടയ്ക്കൽ",
+        "installmentPayments": "തവണ പണമടയ്ക്കലുകൾ",
+        "installmentPlan": "തവണ പദ്ധതി",
+        "installmentPlans": "തവണ പദ്ധതികൾ",
+        "installmentReschedule": "തവണ പുനഃക്രമീകരണം",
+        "installmentReschedules": "തവണ പുനഃക്രമീകരണങ്ങൾ",
         "installments": "തവണകൾ",
-        "interestRate": "പലിശ നിരക്ക്",
-        "plan": "തവണ പദ്ധതി",
-        "plans": "തവണ പദ്ധതികൾ",
-        "principalAmount": "മുതൽ തുക",
         "totalAmount": "തവണ തുക"
     }
 }

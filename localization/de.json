@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Ratenzahlungsverträge",
         "count": "Anzahl der Raten",
-        "downPaymentPercentage": "Anzahlungsprozentsatz",
-        "frequency": "Zahlungsintervall",
+        "installment": "Rate",
+        "installmentContract": "Ratenvertrag",
+        "installmentContracts": "Ratenzahlungsverträge",
+        "installmentFrequencies": "Ratenhäufigkeiten",
+        "installmentFrequency": "Zahlungsintervall",
+        "installmentPayment": "Ratenzahlung",
+        "installmentPayments": "Ratenzahlungen",
+        "installmentPlan": "Ratenzahlungsplan",
+        "installmentPlans": "Ratenzahlungspläne",
+        "installmentReschedule": "Ratenumschuldung",
+        "installmentReschedules": "Ratenumschuldungen",
         "installments": "Raten",
-        "interestRate": "Zinssatz",
-        "plan": "Ratenzahlungsplan",
-        "plans": "Ratenzahlungspläne",
-        "principalAmount": "Kapitalbetrag",
         "totalAmount": "Ratenbetrag"
     }
 }

@@ -1,14 +1,18 @@
 {
     "common": {
-        "contracts": "Договори розстрочки",
         "count": "Кількість платежів",
-        "downPaymentPercentage": "Відсоток початкового внеску",
-        "frequency": "Періодичність платежів",
+        "installment": "Платіж у розстрочку",
+        "installmentContract": "Договір розстрочки",
+        "installmentContracts": "Договори розстрочки",
+        "installmentFrequencies": "Періодичності платежів",
+        "installmentFrequency": "Періодичність платежів",
+        "installmentPayment": "Платіж за розстрочкою",
+        "installmentPayments": "Платежі за розстрочкою",
+        "installmentPlan": "План розстрочки",
+        "installmentPlans": "Плани розстрочки",
+        "installmentReschedule": "Перенесення платежу",
+        "installmentReschedules": "Перенесення платежів",
         "installments": "Платежі на виплат",
-        "interestRate": "Відсоткова ставка",
-        "plan": "План розстрочки",
-        "plans": "Плани розстрочки",
-        "principalAmount": "Основна сума",
         "totalAmount": "Сума платежу"
     }
 }
