@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Avbetalingsavtaler",
         "count": "Antall avdrag",
-        "customer": "Kunde",
         "downPaymentPercentage": "Prosentandel forskuddsbetaling",
         "frequency": "Betalingsfrekvens",
         "installments": "Avdrag",

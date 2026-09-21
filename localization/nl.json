@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Termijnbetalingsovereenkomsten",
         "count": "Aantal termijnen",
-        "customer": "Klant",
         "downPaymentPercentage": "Percentage aanbetaling",
         "frequency": "Betalingsfrequentie",
         "installments": "Termijnen",

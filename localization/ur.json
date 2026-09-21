@@ -2,7 +2,6 @@
     "common": {
         "contracts": "اقساط کے معاہدے",
         "count": "اقساط کی تعداد",
-        "customer": "صارف",
         "downPaymentPercentage": "پیشگی ادائیگی کا فیصد",
         "frequency": "ادائیگی کی تعداد",
         "installments": "اقساط",

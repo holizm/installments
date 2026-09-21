@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Ugovori o obročnoj otplati",
         "count": "Broj rata",
-        "customer": "Kupac",
         "downPaymentPercentage": "Postotak predujma",
         "frequency": "Učestalost plaćanja",
         "installments": "Rate",

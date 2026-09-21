@@ -2,7 +2,6 @@
     "common": {
         "contracts": "የክፍያ ክፍፍል ውሎች",
         "count": "የክፍያ ክፍፍሎች ብዛት",
-        "customer": "ደንበኛ",
         "downPaymentPercentage": "የቅድሚያ ክፍያ መቶኛ",
         "frequency": "የክፍያ ድግግሞሽ",
         "installments": "የክፍያ ክፍፍሎች",

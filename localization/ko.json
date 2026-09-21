@@ -2,7 +2,6 @@
     "common": {
         "contracts": "할부 계약",
         "count": "할부 횟수",
-        "customer": "고객",
         "downPaymentPercentage": "선결제 비율",
         "frequency": "결제 주기",
         "installments": "할부",

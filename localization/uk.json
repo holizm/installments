@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Договори розстрочки",
         "count": "Кількість платежів",
-        "customer": "Клієнт",
         "downPaymentPercentage": "Відсоток початкового внеску",
         "frequency": "Періодичність платежів",
         "installments": "Платежі на виплат",

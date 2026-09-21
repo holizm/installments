@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Mga kontrata sa hulugan",
         "count": "Bilang ng hulog",
-        "customer": "Customer",
         "downPaymentPercentage": "Porsiyento ng paunang bayad",
         "frequency": "Dalas ng pagbabayad",
         "installments": "Mga hulog",

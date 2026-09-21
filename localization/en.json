@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Installment contracts",
         "count": "Number of installments",
-        "customer": "Customer",
         "downPaymentPercentage": "Down payment percentage",
         "frequency": "Frequency",
         "installments": "Installments",

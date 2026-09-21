@@ -2,7 +2,6 @@
     "common": {
         "contracts": "عقود التقسيط",
         "count": "عدد الأقساط",
-        "customer": "العميل",
         "downPaymentPercentage": "نسبة الدفعة المقدمة",
         "frequency": "دورية السداد",
         "installments": "الأقساط",

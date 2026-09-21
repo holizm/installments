@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Kontrak ansuran",
         "count": "Bilangan ansuran",
-        "customer": "Pelanggan",
         "downPaymentPercentage": "Peratusan bayaran pendahuluan",
         "frequency": "Kekerapan pembayaran",
         "installments": "Ansuran",

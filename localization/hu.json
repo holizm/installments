@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Részletfizetési szerződések",
         "count": "Részletek száma",
-        "customer": "Ügyfél",
         "downPaymentPercentage": "Előleg százaléka",
         "frequency": "Fizetési gyakoriság",
         "installments": "Részletek",

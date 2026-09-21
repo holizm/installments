@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Contratos de pago a plazos",
         "count": "Número de cuotas",
-        "customer": "Cliente",
         "downPaymentPercentage": "Porcentaje de pago inicial",
         "frequency": "Frecuencia de pago",
         "installments": "Cuotas",

@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Договоры рассрочки",
         "count": "Количество платежей",
-        "customer": "Клиент",
         "downPaymentPercentage": "Процент первоначального взноса",
         "frequency": "Периодичность платежей",
         "installments": "Платежи в рассрочку",

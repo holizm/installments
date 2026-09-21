@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Afbetalingsaftaler",
         "count": "Antal afdrag",
-        "customer": "Kunde",
         "downPaymentPercentage": "Procentdel for udbetaling",
         "frequency": "Betalingshyppighed",
         "installments": "Afdrag",

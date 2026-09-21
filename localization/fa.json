@@ -2,7 +2,6 @@
     "common": {
         "contracts": "قراردادهای اقساطی",
         "count": "تعداد اقساط",
-        "customer": "مشتری",
         "downPaymentPercentage": "درصد پیش‌پرداخت",
         "frequency": "دوره پرداخت",
         "installments": "اقساط",

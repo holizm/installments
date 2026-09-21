@@ -2,7 +2,6 @@
     "common": {
         "contracts": "חוזי תשלומים",
         "count": "מספר התשלומים",
-        "customer": "לקוח",
         "downPaymentPercentage": "אחוז המקדמה",
         "frequency": "תדירות התשלום",
         "installments": "תשלומים",

@@ -2,7 +2,6 @@
     "common": {
         "contracts": "কিস্তি চুক্তি",
         "count": "কিস্তির সংখ্যা",
-        "customer": "গ্রাহক",
         "downPaymentPercentage": "অগ্রিম পরিশোধের শতাংশ",
         "frequency": "পরিশোধের ব্যবধান",
         "installments": "কিস্তি",

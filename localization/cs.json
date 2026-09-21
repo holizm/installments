@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Smlouvy o splátkách",
         "count": "Počet splátek",
-        "customer": "Zákazník",
         "downPaymentPercentage": "Procento akontace",
         "frequency": "Frekvence splátek",
         "installments": "Splátky",

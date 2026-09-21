@@ -7,7 +7,7 @@ import Form from './form'
 
 const headers = <>
     <th start>installmentsNumber</th>
-    <th>installmentsCustomer</th>
+    <th>coreCustomer</th>
     <th>installmentsPrincipalAmount</th>
     <th>installmentsTotalAmount</th>
     <th>installmentsStartDate</th>

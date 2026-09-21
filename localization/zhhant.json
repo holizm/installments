@@ -2,7 +2,6 @@
     "common": {
         "contracts": "分期付款合約",
         "count": "分期期數",
-        "customer": "客戶",
         "downPaymentPercentage": "首付比例",
         "frequency": "付款頻率",
         "installments": "分期付款",

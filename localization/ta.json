@@ -2,7 +2,6 @@
     "common": {
         "contracts": "தவணை ஒப்பந்தங்கள்",
         "count": "தவணைகளின் எண்ணிக்கை",
-        "customer": "வாடிக்கையாளர்",
         "downPaymentPercentage": "முன்பண சதவீதம்",
         "frequency": "பணம் செலுத்தும் இடைவெளி",
         "installments": "தவணைகள்",

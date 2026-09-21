@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Contrats de paiement échelonné",
         "count": "Nombre d’échéances",
-        "customer": "Client",
         "downPaymentPercentage": "Pourcentage d’acompte",
         "frequency": "Fréquence des paiements",
         "installments": "Échéances",

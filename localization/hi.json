@@ -2,7 +2,6 @@
     "common": {
         "contracts": "किस्त अनुबंध",
         "count": "किस्तों की संख्या",
-        "customer": "ग्राहक",
         "downPaymentPercentage": "अग्रिम भुगतान प्रतिशत",
         "frequency": "भुगतान आवृत्ति",
         "installments": "किस्तें",

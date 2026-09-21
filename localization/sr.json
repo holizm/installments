@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Уговори о отплати на рате",
         "count": "Број рата",
-        "customer": "Купац",
         "downPaymentPercentage": "Проценат учешћа",
         "frequency": "Учесталост плаћања",
         "installments": "Рате",

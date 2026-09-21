@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Kontrak cicilan",
         "count": "Jumlah cicilan",
-        "customer": "Pelanggan",
         "downPaymentPercentage": "Persentase uang muka",
         "frequency": "Frekuensi pembayaran",
         "installments": "Cicilan",

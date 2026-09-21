@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Contratos de pagamento em prestações",
         "count": "Número de prestações",
-        "customer": "Cliente",
         "downPaymentPercentage": "Percentagem de entrada",
         "frequency": "Frequência de pagamento",
         "installments": "Prestações",

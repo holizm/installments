@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Contratti rateali",
         "count": "Numero di rate",
-        "customer": "Cliente",
         "downPaymentPercentage": "Percentuale di acconto",
         "frequency": "Frequenza di pagamento",
         "installments": "Rate",

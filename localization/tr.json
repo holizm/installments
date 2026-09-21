@@ -2,7 +2,6 @@
     "common": {
         "contracts": "Taksit sözleşmeleri",
         "count": "Taksit sayısı",
-        "customer": "Müşteri",
         "downPaymentPercentage": "Peşinat yüzdesi",
         "frequency": "Ödeme sıklığı",
         "installments": "Taksitler",
