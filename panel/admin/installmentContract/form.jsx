@@ -7,37 +7,37 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='installmentsNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='installmentsInstallmentPlan'
+        placeholder='installmentPlan'
         property='installmentPlan'
         required
     />
     <Text
-        placeholder='coreCustomer'
+        placeholder='customer'
         property='customer'
         required
     />
     <Numeric
-        placeholder='corePrincipalAmount'
+        placeholder='principalAmount'
         property='principalAmount'
         required
     />
     <Numeric
-        placeholder='installmentsTotalAmount'
+        placeholder='totalAmount'
         property='totalAmount'
         required
     />
     <Text
-        placeholder='installmentsCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
     <DateTime
-        placeholder='installmentsStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />

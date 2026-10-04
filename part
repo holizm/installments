@@ -27,6 +27,8 @@ installmentContract
     startDate
     state
     unique number
+    uses
+        stateMachines
 installment
     installmentContract
     sequence integer

@@ -1,7 +1,7 @@
 export default <>
-    <th start>installmentsInstallmentPlan</th>
-    <th>installmentsCode</th>
-    <th>installmentsCount</th>
-    <th>installmentsInstallmentFrequency</th>
-    <th>coreInterestRate</th>
+    <th start>installmentPlan</th>
+    <th>code</th>
+    <th>count</th>
+    <th>installmentFrequency</th>
+    <th>interestRate</th>
 </>

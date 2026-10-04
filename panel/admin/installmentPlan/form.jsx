@@ -10,12 +10,12 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='installmentsCode'
+        placeholder='code'
         property='code'
         required
     />
     <Numeric
-        placeholder='installmentsCount'
+        placeholder='count'
         property='installmentsCount'
         required
     />
@@ -26,20 +26,20 @@ const inputs = <>
             'quarterly',
             'custom',
         ]}
-        placeholder='installmentsInstallmentFrequency'
+        placeholder='installmentFrequency'
         property='installmentFrequency'
         required
     />
     <Numeric
-        placeholder='coreDownPaymentPercentage'
+        placeholder='downPaymentPercentage'
         property='downPaymentPercentage'
     />
     <Numeric
-        placeholder='coreInterestRate'
+        placeholder='interestRate'
         property='interestRate'
     />
     <LongText
-        placeholder='installmentsDescription'
+        placeholder='description'
         property='description'
     />
 </>

@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/installments/installmentContract/list',
-                title: 'installmentsInstallmentContracts',
+                title: 'installmentContracts',
             },
             {
                 path: '/installments/installmentPlan/list',
-                title: 'installmentsInstallmentPlans',
+                title: 'installmentPlans',
             },
         ],
         icon: 'calendarMonth',
         path: '/installments',
-        title: 'installmentsInstallments',
+        title: 'installments',
     },
 ]
