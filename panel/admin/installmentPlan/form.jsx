@@ -10,38 +10,27 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
     <Numeric
+        installmentsCount
         placeholder='count'
-        property='installmentsCount'
         required
     />
     <Select
+        installmentFrequency
         options={[
             'weekly',
             'monthly',
             'quarterly',
             'custom',
         ]}
-        placeholder='installmentFrequency'
-        property='installmentFrequency'
         required
     />
-    <Numeric
-        placeholder='downPaymentPercentage'
-        property='downPaymentPercentage'
-    />
-    <Numeric
-        placeholder='interestRate'
-        property='interestRate'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <Numeric downPaymentPercentage />
+    <Numeric interestRate />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
